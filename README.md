@@ -25,11 +25,12 @@
   * *Cultural Sensitivity/AST Data:*
     ![Cultural Sensitivity Report & Resistance Profile](images/Cultural Sensitivity Report & Resistance Profile.jpg)
 
-<img src="images/Cultural%20Sensitivity%20Report%20&%20Resistance%20Profile.jpg" width="300"/> 
+<img src="images/Cultural%20Sensitivity%20Report%20&%20Resistance%20Profile.jpg" width="600"/> 
 
   * *Genome Annotation:*
     * Genomes annotated using *Prokka*. Example below:  
     ![Proteins found in the E. Coli Sample 1](images/Proteins found in the E. Coli Sample 1.jpg)  
+<img src="images/Proteins%20found%20in%20the%20E. Coli%20Sample%201.jpg" width="600"/> 
     * Focus placed on genes encoding PBPs (PBP1a, PBP1b, PBP2, PBP3, PBP4, PBP5, PBP6).
 
   * *PBP Gene Extraction & Mutation Analysis:*

@@ -1,6 +1,4 @@
-# A Multi-Modal Genomic Analysis of Beta-Lactam Resistance Mechanisms
-
-## in Five Clinical *E. coli* Isolates
+# A Multi-Modal Genomic Analysis of Beta-Lactam Resistance Mechanisms in Five Clinical *E. coli* Isolates
 
 ---
 
@@ -31,8 +29,8 @@
 
 ### Key Findings
 - **Genomic Mutation:**
-  - Identified a 12-bp insertion (ATTAACTGACGA) in PBP3 gene of all isolates.
-  - Other PBP mutations less consistent.
+  - Identified a 12-bp insertion (ATTAACTGACGA) in the PBP3 gene of all isolates.
+  - Other PBP mutations are less consistent.
 - **Resistance Genes:**
   - Detection of multiple beta-lactamases: **blaNDM-5, blaCMY-42, blaCTX-M-15, blaTEM-1B**.
 - **Efflux and Other Mechanisms:**
@@ -43,8 +41,8 @@
 
 ### Conclusion
 - Resistance is multifactorial, involving PBP3 insertion mutation, multiple beta-lactamase enzymes, and efflux systems.
-- PBP3 insertion likely key contributor to aztreonam-avibactam resistance.
-- Findings stress need for genomic surveillance and alternative therapies.
+- PBP3 insertion is likely a key contributor to aztreonam-avibactam resistance.
+- Findings stress the need for genomic surveillance and alternative therapies.
 
 ### Project Credits
 - Work conducted via collaboration of Ashoka University and hospital clinical teams.

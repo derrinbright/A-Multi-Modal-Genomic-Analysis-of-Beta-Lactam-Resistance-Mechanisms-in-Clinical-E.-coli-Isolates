@@ -67,7 +67,7 @@
 * ****************************************************************************
 
 * **Project Credits**
-  * Analyses by Ashoka University, hospital faculty, and clinical teams.
+  * Research and analyses were conducted **in collaboration with Ashoka University faculty and clinical partners at the hospital**.
   * Core tools: Prokka, Biopython, ResFinder, CARD-RGI.
   * Work supports scientific advancement in clinical antimicrobial resistance research.
 

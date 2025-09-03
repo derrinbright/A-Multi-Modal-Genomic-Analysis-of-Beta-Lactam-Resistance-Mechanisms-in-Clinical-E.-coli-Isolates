@@ -1,5 +1,8 @@
-# A Multi-Modal Genomic Analysis of Beta-Lactam Resistance Mechanisms  
+# A Multi-Modal Genomic Analysis of Beta-Lactam Resistance Mechanisms
+
 ## in Five Clinical *E. coli* Isolates
+
+---
 
 ### Project Context and Collaborators
 - This project was conducted in collaboration with Ashoka University and a partner hospital.
@@ -47,4 +50,3 @@
 - Work conducted via collaboration of Ashoka University and hospital clinical teams.
 - Computational analyses using Prokka, Biopython, ResFinder, and CARD.
 - The results inform clinical antibiotic stewardship and further research.
-

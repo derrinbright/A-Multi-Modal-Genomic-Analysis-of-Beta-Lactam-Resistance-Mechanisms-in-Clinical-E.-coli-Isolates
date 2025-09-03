@@ -37,15 +37,14 @@
 
   * *Genomic Mutation in PBP3:*
     * All five clinical isolates showed a 12-bp insertion in the PBP3 gene (*ftsI*), identified by alignment and visualized below.
-
       <img src="images/PBP3%20INSERTION%20IN%20THE%20PROKKA%20ANNOTATED%20E.%20COLI%20SAMPLE.jpg" width="600"/>
 
     * BLAST alignments confirmed the exact nature of the insertion.
-
       <img src="images/BLAST%20Result%20Analysis.jpg" width="600"/>
 
   * *Acquired Beta-Lactamase Genes:*
     * Multiple beta-lactamase genes conferring resistance to third-generation cephalosporins and carbapenems (incl. blaNDM-5, blaCMY-42, blaCTX-M-15, blaTEM-1B) were detected:
+
       <img src="images/ResFinder%20Analysis%20Results.jpg" width="600"/>
 
   * *Efflux Pumps and Additional Mechanisms:*

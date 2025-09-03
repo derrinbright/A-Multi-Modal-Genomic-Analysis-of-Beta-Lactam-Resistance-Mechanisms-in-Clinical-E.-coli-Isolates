@@ -1,6 +1,6 @@
 ***************************************************************************
 *    A Multi-Modal Genomic Analysis of Beta-Lactam Resistance Mechanisms   *
-*     in Five Clinical E. coli Isolates – Ashoka University Project        *
+*     in Five Clinical E. coli Isolates        *
 ***************************************************************************
 
 * **Project Context and Collaborators**

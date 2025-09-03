@@ -1,6 +1,6 @@
 ***************************************************************************
-*    A Multi-Modal Genomic Analysis of Beta-Lactam Resistance Mechanisms   *
-*     in Five Clinical *E. coli* Isolates                                 *
+*    A Multi-Modal Genomic Analysis of Beta-Lactam Resistance Mechanisms   
+    in Five Clinical *E. coli* Isolates   *
 ***************************************************************************
 
 * **Project Context and Collaborators**
@@ -45,7 +45,7 @@
     ![CARD-RGI Analysis Results](images/CARD-RGI Analysis Results.jpg)
 
   * *Phenotypic Correlation:*
-    * Comparison of genomic findings with AST resistance profiles (refer also to cultural sensitivity image above).
+    * Comparison of genomic findings with AST resistance profiles (refer also to the cultural sensitivity image above).
 
 * ****************************************************************************
 
@@ -73,11 +73,11 @@
 * **Conclusion and Implications**
 
   * Resistance is **multi-factorial**, involving:
-    * The PBP3 insertion mutation altering beta-lactam binding.
+    * The PBP3 insertion mutation alters beta-lactam binding.
     * Several potent beta-lactamase enzymes.
     * Efflux pump systems enhancing multidrug resistance.
   * PBP3 insertion is a critical factor in aztreonam-avibactam resistance.
-  * Highlights the urgent need for continued genomic surveillance in clinical setups.
+  * Highlights the urgent need for continued genomic surveillance in clinical settings.
   * Standard beta-lactam treatments may fail; alternate therapies should be explored.
   * Demonstrates the strength of genomics and bioinformatics in antibiotic resistance research.
 

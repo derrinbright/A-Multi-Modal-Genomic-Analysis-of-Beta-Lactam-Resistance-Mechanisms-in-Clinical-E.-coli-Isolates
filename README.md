@@ -1,6 +1,4 @@
-***************************************************************************
 # A Multi-Modal Genomic Analysis of Beta-Lactam Resistance Mechanisms in Five Clinical *E. coli* Isolates                            
-***************************************************************************
 
 * **Project Context and Collaborators**
   * This project was conducted in collaboration with Ashoka University and a partner hospital.
@@ -18,9 +16,11 @@
     * Five clinical MDR *E. coli* isolates underwent short-read sequencing to facilitate high-quality genome assembly.
   * *Antibiotic Sensitivity Testing and Phenotype:*
     * Antimicrobial resistance profiles were generated for all clinical isolates:
-      <img src="images/Cultural%20Sensitivity%20Report%20&%20Resistance%20Profile.jpg" width="600"/>
+    
+      <img src="images/Cultural%20Sensitivity%20Report%20&%20Resistance%20Profile.jpg" width="800"/>
   * *Genome Annotation & Protein Identification:*
     * Genome features (e.g., candidate penicillin-binding protein genes) were predicted and annotated.
+    
       <img src="images/Proteins%20found%20in%20the%20E.%20Coli%20Sample%201.jpg" width="600"/>
   * *Resistance Gene and Efflux Pump Screening:*
     * ResFinder and CARD-RGI were used to screen for acquired resistance genes and efflux-related mechanisms.

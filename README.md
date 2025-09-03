@@ -1,6 +1,5 @@
 ***************************************************************************
-*    A Multi-Modal Genomic Analysis of Beta-Lactam Resistance Mechanisms   *
-*    in Five Clinical *E. coli* Isolates                                  *
+*    A Multi-Modal Genomic Analysis of Beta-Lactam Resistance Mechanisms in Five Clinical *E. coli* Isolates  *                                
 ***************************************************************************
 
 * **Project Context and Collaborators**
@@ -21,7 +20,7 @@
     * Antimicrobial resistance profiles were generated for all clinical isolates:
       <img src="images/Cultural%20Sensitivity%20Report%20&%20Resistance%20Profile.jpg" width="600"/>
   * *Genome Annotation & Protein Identification:*
-    * Genome features (e.g. candidate penicillin-binding protein genes) were predicted and annotated.
+    * Genome features (e.g., candidate penicillin-binding protein genes) were predicted and annotated.
       <img src="images/Proteins%20found%20in%20the%20E.%20Coli%20Sample%201.jpg" width="600"/>
   * *Resistance Gene and Efflux Pump Screening:*
     * ResFinder and CARD-RGI were used to screen for acquired resistance genes and efflux-related mechanisms.
@@ -31,10 +30,14 @@
 
 * **Key Findings**
 
+ * *PBP3 Sequence of E. Coli Sample 1:*
+      <img src="images/PBP3%20Sequence.jpg" width="600"/>
+
   * *Genomic Mutation in PBP3:*
     * All five clinical isolates showed a 12-bp insertion in the PBP3 gene (*ftsI*), identified by alignment and visualized below.
+
       <img src="images/PBP3%20INSERTION%20IN%20THE%20PROKKA%20ANNOTATED%20E.%20COLI%20SAMPLE.jpg" width="600"/>
-      <img src="images/PBP3%20Sequence.jpg" width="600"/>
+
     * BLAST alignments confirmed the exact nature of the insertion.
       <img src="images/BLAST%20Result%20Analysis.jpg" width="600"/>
 
@@ -48,6 +51,7 @@
 
   * *Phenotype-Genotype Concordance:*
     * Every isolate was resistant to aztreonam, carbapenems, and other beta-lactams—demonstrating full concordance between genotype and clinical AST:
+
       <img src="images/Cultural%20Sensitivity%20Report%20&%20Resistance%20Profile.jpg" width="600"/>
 
 * ****************************************************************************

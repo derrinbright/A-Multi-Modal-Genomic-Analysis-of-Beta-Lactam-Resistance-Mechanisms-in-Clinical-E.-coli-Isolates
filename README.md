@@ -26,6 +26,8 @@
   * *Cultural Sensitivity/AST Data:*
     ![Cultural Sensitivity Report & Resistance Profile](images/Cultural Sensitivity Report & Resistance Profile.jpg)
 
+<img src="images/Cultural%20Sensitivity%20Report%20&%20Resistance%20Profile.jpg" width="300"/> 
+
   * *Genome Annotation:*
     * Genomes annotated using *Prokka*. Example below:  
     ![Proteins found in the E. Coli Sample 1](images/Proteins found in the E. Coli Sample 1.jpg)  

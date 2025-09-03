@@ -5,91 +5,63 @@
 
 * **Project Context and Collaborators**
   * This project was conducted in collaboration with Ashoka University and a partner hospital.
-  * Five clinical isolates of *Escherichia coli* were collected directly from patient samples at the hospital, sequenced, and analyzed to understand their resistance to beta-lactam antibiotics.
-  * The isolates represented multidrug-resistant (MDR) strains and were chosen based on clinical resistance patterns observed in routine healthcare diagnostics.
+  * Five clinical isolates of *Escherichia coli* were obtained from hospital patients. These were sequenced and analyzed to investigate multidrug resistance to beta-lactam antibiotics, informed by AST results.
 
 * ****************************************************************************
 
 * **Main Objective**
-  * To determine if resistance to beta-lactam antibiotics (including carbapenems, cephalosporins, monobactams) in these isolates is due to:
-    * Mutations in penicillin-binding protein 3 (PBP3, encoded by *ftsI*), especially insertions or substitutions.
-    * The presence of acquired antibiotic resistance genes (ARGs), specifically beta-lactamase genes.
-    * Additional mechanisms such as efflux pump systems.
+  * To determine the genetic mechanisms (with a focus on PBP3 mutations, beta-lactamase genes, and efflux pumps) underlying resistance to various beta-lactams, using genome sequencing and annotation.
 
 * ****************************************************************************
 
 * **Methods Overview**
-
   * *Sample Processing & Sequencing:*
-    * Five clinical *E. coli* isolates were cultured and subjected to whole-genome sequencing.
-
-  * *Cultural Sensitivity / AST Data:*
-
-    <img src="images/Cultural%20Sensitivity%20Report.jpg" width="600"/>
-  
-  * *Protein Annotation Example:*
-
-    <img src="images/Proteins%20found%20in%20the%20E.%20Coli%20Sample%201.jpg" width="600"/>
-  
-  * *PBP Gene Extraction and Mutation Analysis:*
-
-    <img src="images/PBP3%20Sequence.jpg" width="600"/>
-  
-    <img src="images/PBP3%20INSERTION%20IN%20THE%20PROKKA%20ANNOTATED%20E.%20COLI%20SAMPLE.jpg" width="600"/>
-  
-    <img src="images/BLAST%20Result%20Analysis.jpg" width="600"/>
-
-  * *Resistance Gene Identification via ResFinder & CARD-RGI:*
-
-    <img src="images/ResFinder%20%26%20CARD%20RGI%20Results.png" width="600"/>
-
-    <img src="images/ResFinder%20Analysis%20Results.jpg" width="600"/>
-  
-    <img src="images/CARD%20RGI%20Analysis%20Results.jpg" width="600"/>
+    * Five clinical MDR *E. coli* isolates underwent short-read sequencing to facilitate high-quality genome assembly.
+  * *Antibiotic Sensitivity Testing and Phenotype:*
+    * Antimicrobial resistance profiles were generated for all clinical isolates:
+      <img src="images/Cultural%20Sensitivity%20Report%20&%20Resistance%20Profile.jpg" width="600"/>
+  * *Genome Annotation & Protein Identification:*
+    * Genome features (e.g. candidate penicillin-binding protein genes) were predicted and annotated.
+      <img src="images/Proteins%20found%20in%20the%20E.%20Coli%20Sample%201.jpg" width="600"/>
+  * *Resistance Gene and Efflux Pump Screening:*
+    * ResFinder and CARD-RGI were used to screen for acquired resistance genes and efflux-related mechanisms.
+      <img src="images/ResFinder%20&%20CARD-RGI%20Results%20.png" width="600"/>
 
 * ****************************************************************************
 
 * **Key Findings**
 
-  * *Genomic Mutation:*
-    * A 12-bp insertion (ATT… sequence) in PBP3 was observed in all isolates correlating with aztreonam/avibactam resistance.
+  * *Genomic Mutation in PBP3:*
+    * All five clinical isolates showed a 12-bp insertion in the PBP3 gene (*ftsI*), identified by alignment and visualized below.
+      <img src="images/PBP3%20INSERTION%20IN%20THE%20PROKKA%20ANNOTATED%20E.%20COLI%20SAMPLE.jpg" width="600"/>
+      <img src="images/PBP3%20Sequence.jpg" width="600"/>
+    * BLAST alignments confirmed the exact nature of the insertion.
+      <img src="images/BLAST%20Result%20Analysis.jpg" width="600"/>
 
-    <img src="images/PBP3%20INSERTION%20IN%20THE%20PROKKA%20ANNOTATED%20E.%20COLI%20SAMPLE.jpg" width="600"/>
-  
-    <img src="images/BLAST%20Result%20Analysis.jpg" width="600"/>
+  * *Acquired Beta-Lactamase Genes:*
+    * Multiple beta-lactamase genes conferring resistance to third-generation cephalosporins and carbapenems (incl. blaNDM-5, blaCMY-42, blaCTX-M-15, blaTEM-1B) were detected:
+      <img src="images/ResFinder%20Analysis%20Results.jpg" width="600"/>
 
-  * *Beta-lactamase Genes:*
-    * blaNDM-5, blaCMY-42, blaCTX-M-15, blaTEM-1B detected in isolates.
-
-    <img src="images/ResFinder%20%26%20CARD%20RGI%20Results.png" width="600"/>
-  
-    <img src="images/ResFinder%20Analysis%20Results.jpg" width="600"/>
-
-  * *Efflux Pumps and Additional Resistances:*
-
-    <img src="images/CARD%20RGI%20Analysis%20Results.jpg" width="600"/>
+  * *Efflux Pumps and Additional Mechanisms:*
+    * CARD-RGI detected resistance-nodulation-cell division (RND) efflux pumps contributing to the MDR phenotype:
+      <img src="images/CARD-RGI%20Analysis%20Results.jpg" width="600"/>
 
   * *Phenotype-Genotype Concordance:*
-    * AST shows resistance profiles matching genomic predictions (see AST image above).
+    * Every isolate was resistant to aztreonam, carbapenems, and other beta-lactams—demonstrating full concordance between genotype and clinical AST:
+      <img src="images/Cultural%20Sensitivity%20Report%20&%20Resistance%20Profile.jpg" width="600"/>
 
 * ****************************************************************************
 
 * **Conclusion**
-
-  * Resistance is driven by:
-
-    * PBP3 insertion mutation affecting drug binding.
-    * Multiple acquired beta-lactamases.
-    * Efflux pump genes increasing MDR phenotype.
-
-  * Results stress the need for molecular surveillance and alternate therapies beyond traditional beta-lactams.
+  * Resistance to beta-lactams in these hospital-derived *E. coli* isolates is driven by a combination of a consistent PBP3 insertion mutation, multiple potent beta-lactamases, and efflux pumps.
+  * The PBP3 insertion correlates with broad resistance, including to aztreonam-avibactam.
+  * Results highlight the urgent need for routine molecular surveillance and the development of alternative therapies for MDR infections.
 
 * ****************************************************************************
 
 * **Project Credits**
-
-  * Analysis by Ashoka University and clinical collaborators.
-  * Tools: Prokka, Biopython, ResFinder, CARD-RGI.
-  * Outputs aimed to guide antibiotic stewardship and further resistance research.
+  * Analyses by Ashoka University, hospital faculty, and clinical teams.
+  * Core tools: Prokka, Biopython, ResFinder, CARD-RGI.
+  * Work supports scientific advancement in clinical antimicrobial resistance research.
 
 ***************************************************************************

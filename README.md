@@ -40,6 +40,7 @@
       <img src="images/PBP3%20INSERTION%20IN%20THE%20PROKKA%20ANNOTATED%20E.%20COLI%20SAMPLE.jpg" width="600"/>
 
     * BLAST alignments confirmed the exact nature of the insertion.
+
       <img src="images/BLAST%20Result%20Analysis.jpg" width="600"/>
 
   * *Acquired Beta-Lactamase Genes:*
@@ -60,14 +61,14 @@
 * ****************************************************************************
 
 * **Conclusion**
-  * Resistance to beta-lactams in these hospital-derived *E. coli* isolates is driven by a combination of a consistent PBP3 insertion mutation, multiple potent beta-lactamases, and efflux pumps.
+  * Resistance to beta-lactams in these hospital-derived *E. coli* isolates are driven by a combination of a consistent PBP3 insertion mutation, multiple potent beta-lactamases, and efflux pumps.
   * The PBP3 insertion correlates with broad resistance, including to aztreonam-avibactam.
   * Results highlight the urgent need for routine molecular surveillance and the development of alternative therapies for MDR infections.
 
 * ****************************************************************************
 
 * **Project Credits**
-  * Research and analyses were conducted **in collaboration with Ashoka University faculty and clinical partners at the hospital**.
+  * Research and analyses were conducted **in collaboration with Ashoka University and clinical partners at the hospital**.
   * Core tools: Prokka, Biopython, ResFinder, CARD-RGI.
   * Work supports scientific advancement in clinical antimicrobial resistance research.
 
